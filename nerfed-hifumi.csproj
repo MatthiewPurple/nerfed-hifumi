@@ -2,7 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
-    <RootNamespace>nerfed_hifumi</RootNamespace>
+    <RootNamespace>nerfed_magatamas</RootNamespace>
+    <AssemblyName>nerfed_magatamas</AssemblyName>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
